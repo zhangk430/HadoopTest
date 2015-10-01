@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-annotations"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-assemblies"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-auth"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-auth-examples"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-common"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-hdfs"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-hdfs-httpfs"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-hdfs-nfs"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-kms"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-mapreduce-client-app"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-mapreduce-client-common"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-mapreduce-client-core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-mapreduce-client-hs"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-mapreduce-client-hs-plugins"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-mapreduce-client-jobclient"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-mapreduce-client-shuffle"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-mapreduce-examples"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-minikdc"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-nfs"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-yarn-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-yarn-applications-distributedshell"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-yarn-applications-unmanaged-am-launcher"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-yarn-client"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-yarn-common"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-yarn-server-applicationhistoryservice"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-yarn-server-common"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-yarn-server-nodemanager"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-yarn-server-resourcemanager"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-yarn-server-tests"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop-yarn-server-web-proxy"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
